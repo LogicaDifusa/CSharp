@@ -1,0 +1,13 @@
+D:\LógicaDifusa\LDRepo\Compilador\bin\Debug\netcoreapp3.1\Compilador.exe
+D:\LógicaDifusa\LDRepo\Compilador\bin\Debug\netcoreapp3.1\Compilador.deps.json
+D:\LógicaDifusa\LDRepo\Compilador\bin\Debug\netcoreapp3.1\Compilador.runtimeconfig.json
+D:\LógicaDifusa\LDRepo\Compilador\bin\Debug\netcoreapp3.1\Compilador.runtimeconfig.dev.json
+D:\LógicaDifusa\LDRepo\Compilador\bin\Debug\netcoreapp3.1\Compilador.dll
+D:\LógicaDifusa\LDRepo\Compilador\bin\Debug\netcoreapp3.1\Compilador.pdb
+D:\LógicaDifusa\LDRepo\Compilador\obj\Debug\netcoreapp3.1\Compilador.csprojAssemblyReference.cache
+D:\LógicaDifusa\LDRepo\Compilador\obj\Debug\netcoreapp3.1\Compilador.csproj.CoreCompileInputs.cache
+D:\LógicaDifusa\LDRepo\Compilador\obj\Debug\netcoreapp3.1\Compilador.AssemblyInfoInputs.cache
+D:\LógicaDifusa\LDRepo\Compilador\obj\Debug\netcoreapp3.1\Compilador.AssemblyInfo.cs
+D:\LógicaDifusa\LDRepo\Compilador\obj\Debug\netcoreapp3.1\Compilador.dll
+D:\LógicaDifusa\LDRepo\Compilador\obj\Debug\netcoreapp3.1\Compilador.pdb
+D:\LógicaDifusa\LDRepo\Compilador\obj\Debug\netcoreapp3.1\Compilador.genruntimeconfig.cache

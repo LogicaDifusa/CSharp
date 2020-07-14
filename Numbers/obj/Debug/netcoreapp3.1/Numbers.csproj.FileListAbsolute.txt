@@ -1,0 +1,13 @@
+F:\LógicaDifusa\LDRepo\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+F:\LógicaDifusa\LDRepo\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+F:\LógicaDifusa\LDRepo\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+F:\LógicaDifusa\LDRepo\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+F:\LógicaDifusa\LDRepo\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+F:\LógicaDifusa\LDRepo\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+F:\LógicaDifusa\LDRepo\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+F:\LógicaDifusa\LDRepo\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+F:\LógicaDifusa\LDRepo\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+F:\LógicaDifusa\LDRepo\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+F:\LógicaDifusa\LDRepo\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+F:\LógicaDifusa\LDRepo\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+F:\LógicaDifusa\LDRepo\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
