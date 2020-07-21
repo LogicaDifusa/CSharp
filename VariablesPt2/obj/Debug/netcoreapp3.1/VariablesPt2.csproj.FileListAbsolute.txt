@@ -1,0 +1,13 @@
+F:\LógicaDifusa\LDRepo\VariablesPt2\obj\Debug\netcoreapp3.1\VariablesPt2.csprojAssemblyReference.cache
+F:\LógicaDifusa\LDRepo\VariablesPt2\obj\Debug\netcoreapp3.1\VariablesPt2.csproj.CoreCompileInputs.cache
+F:\LógicaDifusa\LDRepo\VariablesPt2\obj\Debug\netcoreapp3.1\VariablesPt2.AssemblyInfoInputs.cache
+F:\LógicaDifusa\LDRepo\VariablesPt2\obj\Debug\netcoreapp3.1\VariablesPt2.AssemblyInfo.cs
+F:\LógicaDifusa\LDRepo\VariablesPt2\bin\Debug\netcoreapp3.1\VariablesPt2.exe
+F:\LógicaDifusa\LDRepo\VariablesPt2\bin\Debug\netcoreapp3.1\VariablesPt2.deps.json
+F:\LógicaDifusa\LDRepo\VariablesPt2\bin\Debug\netcoreapp3.1\VariablesPt2.runtimeconfig.json
+F:\LógicaDifusa\LDRepo\VariablesPt2\bin\Debug\netcoreapp3.1\VariablesPt2.runtimeconfig.dev.json
+F:\LógicaDifusa\LDRepo\VariablesPt2\bin\Debug\netcoreapp3.1\VariablesPt2.dll
+F:\LógicaDifusa\LDRepo\VariablesPt2\bin\Debug\netcoreapp3.1\VariablesPt2.pdb
+F:\LógicaDifusa\LDRepo\VariablesPt2\obj\Debug\netcoreapp3.1\VariablesPt2.dll
+F:\LógicaDifusa\LDRepo\VariablesPt2\obj\Debug\netcoreapp3.1\VariablesPt2.pdb
+F:\LógicaDifusa\LDRepo\VariablesPt2\obj\Debug\netcoreapp3.1\VariablesPt2.genruntimeconfig.cache
