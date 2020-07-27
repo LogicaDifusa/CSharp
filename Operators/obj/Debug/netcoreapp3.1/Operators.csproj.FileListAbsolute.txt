@@ -1,0 +1,13 @@
+F:\LógicaDifusa\LDRepo\CSharp\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+F:\LógicaDifusa\LDRepo\CSharp\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+F:\LógicaDifusa\LDRepo\CSharp\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+F:\LógicaDifusa\LDRepo\CSharp\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+F:\LógicaDifusa\LDRepo\CSharp\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+F:\LógicaDifusa\LDRepo\CSharp\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+F:\LógicaDifusa\LDRepo\CSharp\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+F:\LógicaDifusa\LDRepo\CSharp\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+F:\LógicaDifusa\LDRepo\CSharp\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+F:\LógicaDifusa\LDRepo\CSharp\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+F:\LógicaDifusa\LDRepo\CSharp\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

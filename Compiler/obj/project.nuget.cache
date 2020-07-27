@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLD8rRve5E446cU/74FDetc7ObwZeW4JGT7gFQ19rpFwGshkV3aaxPhczvS902AISTOGN82xTkf0BxAmg0YrWA==",
+  "dgSpecHash": "V/v+8v18CXRFl4iPv8fW6dza+y9whnwnjbjDGH6Rq3j5HnYn/QX+Qi0GiJUdQsKaUAJzEGWaWrilOSqXuTjHiQ==",
   "success": true,
-  "projectFilePath": "D:\\LógicaDifusa\\LDRepo\\Compilador\\Compilador.csproj",
+  "projectFilePath": "F:\\LógicaDifusa\\LDRepo\\CSharp\\Compiler\\Compilador.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

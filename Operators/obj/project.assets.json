@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\LógicaDifusa\\LDRepo\\CSharp\\Compiler\\Compilador.csproj",
-      "projectName": "Compilador",
-      "projectPath": "F:\\LógicaDifusa\\LDRepo\\CSharp\\Compiler\\Compilador.csproj",
+      "projectUniqueName": "F:\\LógicaDifusa\\LDRepo\\CSharp\\Operators\\Operators.csproj",
+      "projectName": "Operators",
+      "projectPath": "F:\\LógicaDifusa\\LDRepo\\CSharp\\Operators\\Operators.csproj",
       "packagesPath": "C:\\Users\\AORUS_DM\\.nuget\\packages\\",
-      "outputPath": "F:\\LógicaDifusa\\LDRepo\\CSharp\\Compiler\\obj\\",
+      "outputPath": "F:\\LógicaDifusa\\LDRepo\\CSharp\\Operators\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
