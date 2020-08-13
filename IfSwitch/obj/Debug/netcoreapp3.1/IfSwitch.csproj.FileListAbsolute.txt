@@ -1,0 +1,13 @@
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.exe
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.deps.json
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.runtimeconfig.json
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.runtimeconfig.dev.json
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.dll
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\bin\Debug\netcoreapp3.1\IfSwitch.pdb
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.csprojAssemblyReference.cache
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.csproj.CoreCompileInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.AssemblyInfoInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.AssemblyInfo.cs
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.dll
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.pdb
+F:\LógicaDifusa\LDRepo\CSharp\IfSwitch\obj\Debug\netcoreapp3.1\IfSwitch.genruntimeconfig.cache
