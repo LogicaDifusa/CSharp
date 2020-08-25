@@ -1,0 +1,13 @@
+F:\LógicaDifusa\LDRepo\CSharp\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+F:\LógicaDifusa\LDRepo\CSharp\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+F:\LógicaDifusa\LDRepo\CSharp\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+F:\LógicaDifusa\LDRepo\CSharp\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+F:\LógicaDifusa\LDRepo\CSharp\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+F:\LógicaDifusa\LDRepo\CSharp\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+F:\LógicaDifusa\LDRepo\CSharp\Casting\obj\Debug\netcoreapp3.1\Casting.csprojAssemblyReference.cache
+F:\LógicaDifusa\LDRepo\CSharp\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+F:\LógicaDifusa\LDRepo\CSharp\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+F:\LógicaDifusa\LDRepo\CSharp\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+F:\LógicaDifusa\LDRepo\CSharp\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache

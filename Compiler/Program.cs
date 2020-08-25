@@ -1,4 +1,6 @@
 ﻿using System;
+using static System.Console;
+using static System.Convert;
 
 namespace Compilador
 {
@@ -6,7 +8,7 @@ namespace Compilador
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World");
         }
     }
 }

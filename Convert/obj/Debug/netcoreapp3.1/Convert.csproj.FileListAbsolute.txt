@@ -1,0 +1,13 @@
+F:\LógicaDifusa\LDRepo\CSharp\Convert\bin\Debug\netcoreapp3.1\Convert.exe
+F:\LógicaDifusa\LDRepo\CSharp\Convert\bin\Debug\netcoreapp3.1\Convert.deps.json
+F:\LógicaDifusa\LDRepo\CSharp\Convert\bin\Debug\netcoreapp3.1\Convert.runtimeconfig.json
+F:\LógicaDifusa\LDRepo\CSharp\Convert\bin\Debug\netcoreapp3.1\Convert.runtimeconfig.dev.json
+F:\LógicaDifusa\LDRepo\CSharp\Convert\bin\Debug\netcoreapp3.1\Convert.dll
+F:\LógicaDifusa\LDRepo\CSharp\Convert\bin\Debug\netcoreapp3.1\Convert.pdb
+F:\LógicaDifusa\LDRepo\CSharp\Convert\obj\Debug\netcoreapp3.1\Convert.csprojAssemblyReference.cache
+F:\LógicaDifusa\LDRepo\CSharp\Convert\obj\Debug\netcoreapp3.1\Convert.AssemblyInfoInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\Convert\obj\Debug\netcoreapp3.1\Convert.AssemblyInfo.cs
+F:\LógicaDifusa\LDRepo\CSharp\Convert\obj\Debug\netcoreapp3.1\Convert.csproj.CoreCompileInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\Convert\obj\Debug\netcoreapp3.1\Convert.dll
+F:\LógicaDifusa\LDRepo\CSharp\Convert\obj\Debug\netcoreapp3.1\Convert.pdb
+F:\LógicaDifusa\LDRepo\CSharp\Convert\obj\Debug\netcoreapp3.1\Convert.genruntimeconfig.cache

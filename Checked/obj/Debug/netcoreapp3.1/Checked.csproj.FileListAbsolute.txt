@@ -1,0 +1,13 @@
+F:\LógicaDifusa\LDRepo\CSharp\Checked\bin\Debug\netcoreapp3.1\Checked.exe
+F:\LógicaDifusa\LDRepo\CSharp\Checked\bin\Debug\netcoreapp3.1\Checked.deps.json
+F:\LógicaDifusa\LDRepo\CSharp\Checked\bin\Debug\netcoreapp3.1\Checked.runtimeconfig.json
+F:\LógicaDifusa\LDRepo\CSharp\Checked\bin\Debug\netcoreapp3.1\Checked.runtimeconfig.dev.json
+F:\LógicaDifusa\LDRepo\CSharp\Checked\bin\Debug\netcoreapp3.1\Checked.dll
+F:\LógicaDifusa\LDRepo\CSharp\Checked\bin\Debug\netcoreapp3.1\Checked.pdb
+F:\LógicaDifusa\LDRepo\CSharp\Checked\obj\Debug\netcoreapp3.1\Checked.csprojAssemblyReference.cache
+F:\LógicaDifusa\LDRepo\CSharp\Checked\obj\Debug\netcoreapp3.1\Checked.AssemblyInfoInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\Checked\obj\Debug\netcoreapp3.1\Checked.AssemblyInfo.cs
+F:\LógicaDifusa\LDRepo\CSharp\Checked\obj\Debug\netcoreapp3.1\Checked.csproj.CoreCompileInputs.cache
+F:\LógicaDifusa\LDRepo\CSharp\Checked\obj\Debug\netcoreapp3.1\Checked.dll
+F:\LógicaDifusa\LDRepo\CSharp\Checked\obj\Debug\netcoreapp3.1\Checked.pdb
+F:\LógicaDifusa\LDRepo\CSharp\Checked\obj\Debug\netcoreapp3.1\Checked.genruntimeconfig.cache
