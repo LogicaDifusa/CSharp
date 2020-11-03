@@ -47,7 +47,7 @@ namespace Convert
                  WriteLine("Binary as Hexadecimal");
                  for (int index = 0; index < binaryObject.Length; index++)
                  {
-                     Write($"{binaryObject[index]:X} ");
+                     Write($"{binaryObject[index]} ");
                  }
                  WriteLine(); // a white space just because
 
