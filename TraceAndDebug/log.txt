@@ -1,0 +1,2 @@
+Debug says, I am here!
+Trace says, I am ready to watch

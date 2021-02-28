@@ -1,0 +1,12 @@
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\bin\Debug\net5.0\CalculatorLib.deps.json
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\bin\Debug\net5.0\CalculatorLib.dll
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\bin\Debug\net5.0\ref\CalculatorLib.dll
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\bin\Debug\net5.0\CalculatorLib.pdb
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csprojAssemblyReference.cache
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\obj\Debug\net5.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfo.cs
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\obj\Debug\net5.0\CalculatorLib.dll
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\obj\Debug\net5.0\ref\CalculatorLib.dll
+D:\LogicaDifusa\LDRepo\CSharp\CalculatorLib\obj\Debug\net5.0\CalculatorLib.pdb
